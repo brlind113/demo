@@ -1,2 +1,2 @@
 blind1
-Success test1!
+Success!
